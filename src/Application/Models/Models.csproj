@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="SourceKit.Generators.Builder.Annotations" />
+  </ItemGroup>
+</Project>
